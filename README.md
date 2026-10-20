@@ -1,9 +1,7 @@
 <div align="center">
 
 # Mattqz
-<h2>
-<q> A trash programmer with a swearing problem.</q>*
-</h2>
+##<q> A trash programmer with a swearing problem.</q>*
 
 ### Game Developer | Fullstack Developer | Content Creator
 <u>(In Learning!)</u>
