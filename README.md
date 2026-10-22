@@ -6,7 +6,7 @@
 
 ---
 
-#### Game Developer | Fullstack Developer | Content Creator
+### Game Developer | Fullstack Developer | Content Creator
 
 <u>(In Learning!)</u>
 
