@@ -2,19 +2,11 @@
 
 # Mattqz
 
-<section style="font-size:1.6em">
-
-*<q> A trash programmer with a swearing problem.</q>*
-
-</section>
+### *<q> A trash programmer with a swearing problem.</q>*
 
 ---
 
-<section style="font-size: 1.225em">
-
-Game Developer | Fullstack Developer | Content Creator
-
-</section>
+#### Game Developer | Fullstack Developer | Content Creator
 
 <u>(In Learning!)</u>
 
